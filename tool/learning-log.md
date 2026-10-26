@@ -6,7 +6,7 @@
 
 * Next.js is a framework based on React used to build websites and web applications.
   
-*I learned how files and folders can be used to create routes.
+* I learned how files and folders can be used to create routes.
 
 * Next.js supports React components, which let developers reuse parts of a website.
 
