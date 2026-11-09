@@ -22,7 +22,28 @@
 }
 ```
 * `export default` allows Next.js to use this component as the page.
+
+### 11/8
+
+* I learned how to use JavaScript variables inside a Next.js component.
+
+* I experimented with const to create variables that store information.
   
+```js
+export default function Home() {
+  const name = "Daniil";
+  const subject = "SEP";
+
+  return (
+    <main>
+      <h1>Welcome, {name}!</h1>
+      <p>You are learning {subject}.</p>
+    </main>
+  );
+}
+```
+* {name} and {subject}: displays the variable values inside JSX.
+* JSX: allows me to write HTML like code inside the React component.
 ## Project: **X**
 
 ---
