@@ -36,7 +36,7 @@ export default function Home() {
 
   return (
     <main>
-      <h1>Welcome, {name}!</h1>
+      <h1>Welcome, {name}</h1>
       <p>You are learning {subject}.</p>
     </main>
   );
